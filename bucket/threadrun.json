@@ -1,10 +1,10 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.3",
     "description": "Runs coding agents in sandboxes on your computer or your own server",
     "homepage": "https://threadrun.dev/",
     "license": "Apache-2.0",
     "url": "https://threadrun.dev/downloads/Threadrun-windows-x64.zip",
-    "hash": "c234a80f18a99502251b38ff13487dbe7773287be74a2452a50d25b604e2f604",
+    "hash": "2465d8b62efc403398f17ab3bc334dec3199135bed79002036fb5d14c4fb6ea5",
     "bin": "threadrun.exe",
     "shortcuts": [["threadrun.exe", "Threadrun"]],
     "checkver": {
